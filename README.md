@@ -8,6 +8,7 @@ sound test: https://youtu.be/CY68szDjAXo
 - 1x top, bottom & plate (either cnc or 3d printed)
 - some gaskets for mounting
 - 4x 10mm diameter rubber feet
+- 8x m2 screws
 - a pro micro compatible controller board
 - the patience to handwire & program everyting
 
