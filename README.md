@@ -11,7 +11,7 @@ sound test: https://youtu.be/CY68szDjAXo
 - a pro micro compatible controller board
 - the patience to handwire & program everyting
 
-## disclaimer:
+## disclaimer
 the nougat is one of my very early keyboard designs, and I was very inexperienced when creating it. I recommend the files in this repository should be used for reference only.
 
 I do not sell any products, and I am not affiliated with any vendors who claim to sell my designs. if you choose to support these vendors, I am not responsible for any issues you may encounter with them.
