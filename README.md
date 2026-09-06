@@ -4,7 +4,7 @@ a handwired 40% with an exploded arrow cluster and knob
 <img width="4032" height="3024" alt="PXL_20210812_003607908" src="https://github.com/user-attachments/assets/e0c1e363-1b47-47b8-8bc1-408df7ebb64e" />
 sound test: https://youtu.be/CY68szDjAXo
 
-## you will need:
+## you will need
 - 1x top, bottom & plate (either cnc or 3d printed)
 - some gaskets for mounting
 - 4x 10mm diameter rubber feet
