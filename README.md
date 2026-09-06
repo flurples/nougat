@@ -5,7 +5,7 @@ a handwired 40% with an exploded arrow cluster and knob
 sound test: https://youtu.be/CY68szDjAXo
 
 ## you will need
-- 1x top, bottom & plate (either cnc or 3d printed)
+- 1x top, bottom, & plate (either cnc or 3d printed)
 - some gaskets for mounting
 - 4x 10mm diameter rubber feet
 - 8x m2 screws
